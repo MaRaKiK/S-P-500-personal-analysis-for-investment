@@ -59,9 +59,10 @@ These visuals here show each company's stock **historical variance for open pric
 ---
 
 ## 💲 Where am I Planning to Invest
-- Bank of America Corporation and Apple Inc seem to have an amazing "rocket" volume of stocks traded.
-- Apple Inc, Walmart Inc, NVIDIA Corporation look like to have a great differences of Avg (high-low) prices and high volume so they become more attractive to me like many other investors.
-- Amazon.com Inc has a great variance of the highest price per each year (2014-2015) and this made it really wanted.
-- Amazon.com Inc, Alphabet Inc, Chipotle Mexican Grill Inc and NVIDIA Corporation seems amazing due to their high variance. Cannot wait for the best time to invest on them.
+As a beginner investor, this dashboard allowed me to explore how different companies behave over time — and based on metrics like trading volume, price variance, and high-low differentials, I formed a list of companies I would consider investing in.
+- **Bank of America Corporation** and **Apple Inc.** showed exceptionally high trading volumes, indicating strong investor interest and liquidity.
+- **Apple Inc.**, **Walmart Inc.**, and **NVIDIA Corporation** demonstrated significant average differences between high and low prices, coupled with high volume --making them especially attractive for investors seeking growth opportunities.
+- **Amazon.com Inc.** showed notable variance in high prices, especially during the 2014–2015 period, which may suggest strong price momentum or volatility.
+- **Amazon.com Inc.**, **Alphabet Inc.**, **Chipotle Mexican Grill Inc.**, and **NVIDIA Corporation** exhibited high price variances overall — suggesting potential for strong returns, as long as with increased risk.
 
 ---
